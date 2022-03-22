@@ -1,0 +1,15 @@
+/home/andersonsouza/projetos/Dio/orientação_ojetos-dotnet/bin/Debug/net6.0/orientação_ojetos-dotnet
+/home/andersonsouza/projetos/Dio/orientação_ojetos-dotnet/bin/Debug/net6.0/orientação_ojetos-dotnet.deps.json
+/home/andersonsouza/projetos/Dio/orientação_ojetos-dotnet/bin/Debug/net6.0/orientação_ojetos-dotnet.runtimeconfig.json
+/home/andersonsouza/projetos/Dio/orientação_ojetos-dotnet/bin/Debug/net6.0/orientação_ojetos-dotnet.dll
+/home/andersonsouza/projetos/Dio/orientação_ojetos-dotnet/bin/Debug/net6.0/orientação_ojetos-dotnet.pdb
+/home/andersonsouza/projetos/Dio/orientação_ojetos-dotnet/obj/Debug/net6.0/orientação_ojetos-dotnet.csproj.AssemblyReference.cache
+/home/andersonsouza/projetos/Dio/orientação_ojetos-dotnet/obj/Debug/net6.0/orientação_ojetos-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/andersonsouza/projetos/Dio/orientação_ojetos-dotnet/obj/Debug/net6.0/orientação_ojetos-dotnet.AssemblyInfoInputs.cache
+/home/andersonsouza/projetos/Dio/orientação_ojetos-dotnet/obj/Debug/net6.0/orientação_ojetos-dotnet.AssemblyInfo.cs
+/home/andersonsouza/projetos/Dio/orientação_ojetos-dotnet/obj/Debug/net6.0/orientação_ojetos-dotnet.csproj.CoreCompileInputs.cache
+/home/andersonsouza/projetos/Dio/orientação_ojetos-dotnet/obj/Debug/net6.0/orientação_ojetos-dotnet.dll
+/home/andersonsouza/projetos/Dio/orientação_ojetos-dotnet/obj/Debug/net6.0/refint/orientação_ojetos-dotnet.dll
+/home/andersonsouza/projetos/Dio/orientação_ojetos-dotnet/obj/Debug/net6.0/orientação_ojetos-dotnet.pdb
+/home/andersonsouza/projetos/Dio/orientação_ojetos-dotnet/obj/Debug/net6.0/orientação_ojetos-dotnet.genruntimeconfig.cache
+/home/andersonsouza/projetos/Dio/orientação_ojetos-dotnet/obj/Debug/net6.0/ref/orientação_ojetos-dotnet.dll
